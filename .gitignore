@@ -1,0 +1,9 @@
+akka-http-quickstart-scala/
+api_server/
+api_server_2/
+api_server_sample/
+check_tool/
+Fringe81/
+test/
+.DS_Store
+.idea

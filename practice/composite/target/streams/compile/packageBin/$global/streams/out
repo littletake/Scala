@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/composite_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompositeGraphic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/CompositeGraphic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompositeSample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/CompositeSample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Entry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/Entry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Graphic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/Graphic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	File.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/File.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompositeSample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/CompositeSample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Directory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/Directory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ellipse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/take-pc-6/Documents/workspace/Backend/scala/practice/composite/target/scala-2.12/classes/Ellipse.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
