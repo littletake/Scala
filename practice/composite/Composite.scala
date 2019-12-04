@@ -1,18 +1,19 @@
 // http://en.wikipedia.org/wiki/Composite_pattern
 
 trait Graphic {
-  def print
+  def print: Unit
 }
 
 class CompositeGraphic extends Graphic {
   private var mChildGraphics = List[Graphic]()
 
   override def print = {
-    println("(")
+    print("(")
     mChildGraphics.foreach ((g:Graphic) => {
       g.print
     })
-    println(")")
+    print(")")
+    println()
   }
 
   def add(graphic: Graphic) = {
